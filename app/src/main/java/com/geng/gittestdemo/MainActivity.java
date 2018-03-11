@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("aaaa master");
+
+        System.out.println("dev master");
     }
 }
